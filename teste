@@ -8,13 +8,29 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/653.m3u8
 http://top-iptv.zapto.org:8000/live/Aria/Aria/653.m3u8
 
 
-#EXTINF:-1,CANAL 1
-rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL
-#EXTINF:-1,CANAL 2
-rtmp://89.248.172.52/live/ playpath=espnuks1 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 timeout=12 pageUrl=http://www.cast4u.tv/embed.php?live=espnuks1&vw=620&vh=490
-#EXTINF:-1,CANAL 3
-rtmp://89.248.163.3/live/ playpath=espnuks1 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 timeout=12 pageUrl=http://www.cast4u.tv/embed.php?live=espnuks1&vw=620&vh=490
-#EXTINF:-1,CANAL 4
-rtmp://185.63.255.60:80/live playpath=espnxukk swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=12 pageUrl=http://www.yotv.co/embed.php?live=espnxukk&vw=620&vh=490
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SportTV 1.png" group-title=“DESPORTO”,[COLOR red][I][B]SPORT TV 1 [/B][/I][/COLOR]
-rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL
+#EXTINF:-1,PT-SPORT TV 5  SD
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/3454.m3u8
+#EXTINF:-1,PT-SPORT TV 4  HD  720p
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/3455.m3u8
+#EXTINF:-1,PT-SPORT TV 3 HD  720p
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/3458.m3u8
+#EXTINF:-1,PT-SPORT TV 2  HD  720p
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/3456.m3u8
+#EXTINF:-1,PT-SPORT TV 1 HD 720p
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/3457.m3u8
+
+#EXTINF:-1,PT-BENFICA TV 2 HD   720p
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/3495.m3u8
+#EXTINF:-1,PT-BENFICA TV 1  HD 720p
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/3496.m3u8
+
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="Sport TV 2 HD.png" group-title="DESPORTO",SPORTV 2
+http://91.204.214.106:23201/stolen/247h/xenixos.7z
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="Sport TV 3 HD.png" group-title="DESPORTO",SPORTV 3
+http://91.204.214.106:23201/stolen/240o/xenixos.7z
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="Sport TV 5 HD.png" group-title="DESPORTO",SPORTV 5 
+http://91.204.214.106:23201/stolen/251z/xenixos.7z
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="Benfica TV 1.png" group-title="DESPORTO",BTV 1
+http://91.204.214.106:23201/stolen/250l/xenixos.7z
+#EXTINF:-1 tvg-id="BenficaTV2.pt" tvg-logo="Benfica TV 2.png" group-title="DESPORTO",BTV 2
+http://91.204.214.106:23201/stolen/233w/xenixos.7z
