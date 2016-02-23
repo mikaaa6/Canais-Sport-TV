@@ -7,51 +7,14 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/654.m3u8
 #EXTINF:-1,PT : Sport Tv 1  FULL HD
 http://top-iptv.zapto.org:8000/live/Aria/Aria/653.m3u8
 
-#EXTINF:-1, [COLOR red] SPORT TV 1 [/COLOR] 
-plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORT TV 1
-#EXTINF:-1, [COLOR red] SPORT TV 2 [/COLOR]  
-plugin://program.plexus/?mode=1&urlacestream://14468e2d369fabdff33d5c546e9585ec52af815f&mode=1&name=acestream&mode=1&name=SPORT TV 2  
-#EXTINF:-1, [COLOR red] SPORT TV 3 [/COLOR]  
-plugin://program.plexus/?mode=1&url=acestream://7a80e5b44f50faa3c802e8da53ac7a22be0171be&mode=1&name=acestream&mode=1&name=SPORT TV 3  
-#EXTINF:-1, [COLOR red] SPORT TV 4 [/COLOR] 
-plugin://program.plexus/?mode=1&url=acestream://ad5b5478899b693238d8b96238f86d715737c230mode=1&name=acestream&mode=1&name=SPORT TV 4 
-#EXTINF:-1, [COLOR red] SPORT TV 5 [/COLOR]  
-plugin://program.plexus/?mode=1&url=acestream://592445fe3244632cb50e4eb0dc66e3f61c3f3a6b&mode=1&name=acestream&mode=1&name=SPORT TV 5 
-#EXTINF:-1, [COLOR red] BENFICA TV 1 [/COLOR]  
-plugin://program.plexus/?mode=1&url=acestream://253369b57f2a45e1489e5bb7eab4daf0a4cde415&mode=1&name=acestream&mode=1&name=BENFICA TV 1  
-#EXTINF:-1, [COLOR red] BENFICA TV 2 [/COLOR]  
-plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV 2
 
-
-#EXTINF:-1,beIN SPORTS 1 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=1
-#EXTINF:-1,beIN SPORTS 2 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=2
-#EXTINF:-1,beIN SPORTS 3 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=3
-#EXTINF:-1,beIN SPORTS 4 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=4
-#EXTINF:-1,beIN SPORTS 5 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=5
-#EXTINF:-1,beIN SPORTS 6 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=6
-#EXTINF:-1,beIN SPORTS 7 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=7
-#EXTINF:-1,beIN SPORTS 8 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=8
-#EXTINF:-1,beIN SPORTS 9 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=9
-#EXTINF:-1,beIN SPORTS 10 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=10
-#EXTINF:-1,beIN SPORTS 11 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=11
-#EXTINF:-1,beIN SPORTS 12 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=12
-#EXTINF:-1,beIN SPORTS 13 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=13
-#EXTINF:-1,beIN SPORTS 14 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=14
-#EXTINF:-1,beIN SPORTS 15 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=15
-#EXTINF:-1,beIN SPORTS 16 HD
-http://iptv.star7arab.com/free?token=775815969&id&id=16 
+#EXTINF:-1,POR - Sport Tv 1
+http://bb1.sendevric.com:8000/live/nicky/nicky/1056.ts
+#EXTINF:-1,POR - Sport Tv 2
+http://bb1.sendevric.com:8000/live/nicky/nicky/1057.ts
+#EXTINF:-1,POR - Sport Tv 3
+http://bb1.sendevric.com:8000/live/nicky/nicky/1058.ts
+#EXTINF:-1,POR - Sport Tv 4
+http://bb1.sendevric.com:8000/live/nicky/nicky/1059.ts
+#EXTINF:-1,POR - Sport Tv 5
+http://bb1.sendevric.com:8000/live/nicky/nicky/1060.ts
