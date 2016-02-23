@@ -14,235 +14,509 @@ http://cp.dmbshare.net:8000/live/liverpool/liverpool/3456.m3u8
 #EXTINF:-1,PT-SPORT TV 5  
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/3454.m3u8
 
-SPORTTV
-rtmp://$OPT:rtmp-raw=rtmp://a3.aliez.me/live/ playpath=streama40791?token=3f4f8eb272c09c4ac7f41a93b35ca997 swfUrl=http://i.aliez.me/swf/playernew.swf?0 live=1 pageUrl=http://emb.aliez.me/player/live.php?id=40791&w=700&h=480 –live
+#EXTINF:0,SPORT.TV 1 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/5.ts
+#EXTINF:0,SPORT.TV 1 HQ
+http://iptvtt.ddns.net:8000/live/ismael/ismael/96.ts
+#EXTINF:0,SPORT.TV 2 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/6.ts
+#EXTINF:0,SPORT.TV 3 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/7.ts
+#EXTINF:0,SPORT.TV 4 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/8.ts
+#EXTINF:0,SPORT.TV 5 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/9.ts
+#EXTINF:0,BTV 1 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/10.ts
+#EXTINF:0,BTV 1 HQ
+http://iptvtt.ddns.net:8000/live/ismael/ismael/98.ts
+#EXTINF:0,BTV 2 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/11.ts
+#EXTINF:0,PFC
+http://iptvtt.ddns.net:8000/live/ismael/ismael/95.ts
+#EXTINF:0,EuroSport HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/61.ts
+#EXTINF:0,EuroSport 2
+http://iptvtt.ddns.net:8000/live/ismael/ismael/101.ts
+#EXTINF:0,Eurosport News
+http://iptvtt.ddns.net:8000/live/ismael/ismael/87.ts
+#EXTINF:0,SPORTING TV HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/105.ts
+#EXTINF:0,Sporting TV
+http://iptvtt.ddns.net:8000/live/ismael/ismael/65.ts
+#EXTINF:0,Fuel tv
+http://iptvtt.ddns.net:8000/live/ismael/ismael/62.ts
+#EXTINF:0,A Bola
+http://iptvtt.ddns.net:8000/live/ismael/ismael/37.ts
+#EXTINF:0,TVCINE 1 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/21.ts
+#EXTINF:0,TVCINE 2 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/22.ts
+#EXTINF:0,TVCINE 3 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/23.ts
+#EXTINF:0,TVCINE 4 HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/24.ts
+#EXTINF:0,Mov HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/102.ts
+#EXTINF:0,CINEMUNDO HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/64.ts
+#EXTINF:0,TVséries HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/25.ts
+#EXTINF:0,HOLLYWOOD HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/103.ts
+#EXTINF:0,HOLLYWOOD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/40.ts
+#EXTINF:0,FOX MOVE HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/17.ts
+#EXTINF:0,Fox Life
+http://iptvtt.ddns.net:8000/live/ismael/ismael/78.ts
+#EXTINF:0,FOX CRIME HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/50.ts
+#EXTINF:0,Fox HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/33.ts
+#EXTINF:0,SYFY
+http://iptvtt.ddns.net:8000/live/ismael/ismael/46.ts
+#EXTINF:0,Axn HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/38.ts
+#EXTINF:0,AXN WHITE HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/49.ts
+#EXTINF:0,AXN BLACK  HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/100.ts
+#EXTINF:0,FOX Comedy
+http://iptvtt.ddns.net:8000/live/ismael/ismael/84.ts
+#EXTINF:0,TLC
+http://iptvtt.ddns.net:8000/live/ismael/ismael/77.ts
+#EXTINF:0,CBS REALITY
+http://iptvtt.ddns.net:8000/live/ismael/ismael/43.ts
+#EXTINF:0,A&E
+http://iptvtt.ddns.net:8000/live/ismael/ismael/81.ts
+#EXTINF:0,DISCOVERY
+http://iptvtt.ddns.net:8000/live/ismael/ismael/60.ts
+#EXTINF:0,Discovery HD Showcase
+http://iptvtt.ddns.net:8000/live/ismael/ismael/93.ts
+#EXTINF:0,CANAL HISTORIA
+http://iptvtt.ddns.net:8000/live/ismael/ismael/52.ts
+#EXTINF:0,National Geographic HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/85.ts
+#EXTINF:0,Nat Geo Wild
+http://iptvtt.ddns.net:8000/live/ismael/ismael/94.ts
+#EXTINF:0,Odisseia
+http://iptvtt.ddns.net:8000/live/ismael/ismael/31.ts
+#EXTINF:0,TRAVEL CHANNEL
+http://iptvtt.ddns.net:8000/live/ismael/ismael/108.ts
+#EXTINF:0,ETV
+http://iptvtt.ddns.net:8000/live/ismael/ismael/57.ts
+#EXTINF:0,Nickelodeon
+http://iptvtt.ddns.net:8000/live/ismael/ismael/15.ts
+#EXTINF:0,Sic Kids
+http://iptvtt.ddns.net:8000/live/ismael/ismael/83.ts
+#EXTINF:0,DISNEY CHANEL
+http://iptvtt.ddns.net:8000/live/ismael/ismael/58.ts
+#EXTINF:0,Disney Junior
+http://iptvtt.ddns.net:8000/live/ismael/ismael/19.ts
+#EXTINF:0,Cartoon Network PT
+http://iptvtt.ddns.net:8000/live/ismael/ismael/79.ts
+#EXTINF:0,Jim Jam
+http://iptvtt.ddns.net:8000/live/ismael/ismael/104.ts
+#EXTINF:0,CANAL PANDA
+http://iptvtt.ddns.net:8000/live/ismael/ismael/35.ts
+#EXTINF:0,VH1
+http://iptvtt.ddns.net:8000/live/ismael/ismael/69.ts
+#EXTINF:0,Mtv Portugal
+http://iptvtt.ddns.net:8000/live/ismael/ismael/75.ts
+#EXTINF:0,AFRO MUSIC
+http://iptvtt.ddns.net:8000/live/ismael/ismael/28.ts
+#EXTINF:0,CAÇA E PESCA
+http://iptvtt.ddns.net:8000/live/ismael/ismael/66.ts
+#EXTINF:0,TOROS
+http://iptvtt.ddns.net:8000/live/ismael/ismael/59.ts
+#EXTINF:0,24 KITCHEN HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/106.ts
+#EXTINF:0,caçavision
+http://iptvtt.ddns.net:8000/live/ismael/ismael/107.ts
+#EXTINF:0,VENUS
+http://iptvtt.ddns.net:8000/live/ismael/ismael/13.ts
+#EXTINF:0,PLBOYHD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/12.ts
+#EXTINF:0,HOT HD
+http://iptvtt.ddns.net:8000/live/ismael/ismael/51.ts
+#EXTINF:0,+18
+http://iptvtt.ddns.net:8000/live/ismael/ismael/91.ts
+#EXTINF:0,+18
+http://iptvtt.ddns.net:8000/live/ismael/ismael/92.ts
 
-SPORTTV4
-http://iptv.ndasat.com:88/live/000001/000001/67.ts
-SPORTTV3
-http://iptv.ndasat.com:88/live/000001/000001/66.ts
-SPORTTV2
-http://iptv.ndasat.com:88/live/000001/000001/65.ts
+#EXTINF:0,vevo 3
+http://tvdasogra.com:8880/live/greg/greg/468.ts
+#EXTINF:0,vevo 2
+http://tvdasogra.com:8880/live/greg/greg/467.ts
+#EXTINF:0,vevo 1
+http://tvdasogra.com:8880/live/greg/greg/466.ts
+#EXTINF:0,TVseries
+http://tvdasogra.com:8880/live/greg/greg/469.ts
+#EXTINF:0,TVI 24
+http://tvdasogra.com:8880/live/greg/greg/214.ts
+#EXTINF:0,tvi +
+http://tvdasogra.com:8880/live/greg/greg/456.ts
+#EXTINF:0,TVI
+http://tvdasogra.com:8880/live/greg/greg/213.ts
+#EXTINF:0,TVCINE 4
+http://tvdasogra.com:8880/live/greg/greg/265.ts
+#EXTINF:0,TVCINE 3
+http://tvdasogra.com:8880/live/greg/greg/264.ts
+#EXTINF:0,TVCINE 2
+http://tvdasogra.com:8880/live/greg/greg/263.ts
+#EXTINF:0,TVCINE 1
+http://tvdasogra.com:8880/live/greg/greg/262.ts
+#EXTINF:0,TPA
+http://tvdasogra.com:8880/live/greg/greg/459.ts
+#EXTINF:0,sportv americas
+http://tvdasogra.com:8880/live/greg/greg/458.ts
+#EXTINF:0,sportv 5
+http://tvdasogra.com:8880/live/greg/greg/258.ts
+#EXTINF:0,sportv 4
+http://tvdasogra.com:8880/live/greg/greg/257.ts
+#EXTINF:0,sportv 3
+http://tvdasogra.com:8880/live/greg/greg/256.ts
+#EXTINF:0,sportv 2 HD
+http://tvdasogra.com:8880/live/greg/greg/255.ts
+#EXTINF:0,sportv 1 HD
+http://tvdasogra.com:8880/live/greg/greg/453.ts
+#EXTINF:0,Sporting TV
+http://tvdasogra.com:8880/live/greg/greg/261.ts
+#EXTINF:0,SPORT TV HD 1080P *2 opção*
+http://tvdasogra.com:8880/live/greg/greg/1.ts
+#EXTINF:0,SIC noticias
+http://tvdasogra.com:8880/live/greg/greg/212.ts
+#EXTINF:0,Sic K
+http://tvdasogra.com:8880/live/greg/greg/452.ts
+#EXTINF:0,sic
+http://tvdasogra.com:8880/live/greg/greg/251.ts
+#EXTINF:0,rtp2
+http://tvdasogra.com:8880/live/greg/greg/239.ts
+#EXTINF:0,rtp 3
+http://tvdasogra.com:8880/live/greg/greg/483.ts
+#EXTINF:0,rtp
+http://tvdasogra.com:8880/live/greg/greg/250.ts
+#EXTINF:0,Porto canal
+http://tvdasogra.com:8880/live/greg/greg/267.ts
+#EXTINF:0,PFC
+http://tvdasogra.com:8880/live/greg/greg/455.ts
+#EXTINF:0,Panda
+http://tvdasogra.com:8880/live/greg/greg/225.ts
+#EXTINF:0,Nat Geographic wild
+http://tvdasogra.com:8880/live/greg/greg/281.ts
+#EXTINF:0,Mov HD
+http://tvdasogra.com:8880/live/greg/greg/482.ts
+#EXTINF:0,Private.com +18
+http://tvdasogra.com:8880/live/greg/greg/266.ts
+#EXTINF:0,holliwood
+http://tvdasogra.com:8880/live/greg/greg/454.ts
+#EXTINF:0,globo
+http://tvdasogra.com:8880/live/greg/greg/268.ts
+#EXTINF:0,fox life HD
+http://tvdasogra.com:8880/live/greg/greg/229.ts
+#EXTINF:0,fox hd
+http://tvdasogra.com:8880/live/greg/greg/278.ts
+#EXTINF:0,fox crime
+http://tvdasogra.com:8880/live/greg/greg/461.ts
+#EXTINF:0,Arena Sport 2
+http://tvdasogra.com:8880/live/greg/greg/221.ts
+#EXTINF:0,euronews
+http://tvdasogra.com:8880/live/greg/greg/460.ts
+#EXTINF:0,dysney junior
+http://tvdasogra.com:8880/live/greg/greg/218.ts
+#EXTINF:0,dysney channel
+http://tvdasogra.com:8880/live/greg/greg/282.ts
+#EXTINF:0,discovery PT
+http://tvdasogra.com:8880/live/greg/greg/277.ts
+#EXTINF:0,Arena Sport 3
+http://tvdasogra.com:8880/live/greg/greg/224.ts
+#EXTINF:0,cinemundo
+http://tvdasogra.com:8880/live/greg/greg/244.ts
+#EXTINF:0,caça e pesca
+http://tvdasogra.com:8880/live/greg/greg/254.ts
+#EXTINF:0,Benfica TV 2
+http://tvdasogra.com:8880/live/greg/greg/260.ts
+#EXTINF:0,Benfica TV 1 HD
+http://tvdasogra.com:8880/live/greg/greg/259.ts
+#EXTINF:0,benfica full hd *testes*
+http://tvdasogra.com:8880/live/greg/greg/463.ts
+#EXTINF:0,axn black
+http://tvdasogra.com:8880/live/greg/greg/465.ts
+#EXTINF:0,axn
+http://tvdasogra.com:8880/live/greg/greg/276.ts
+#EXTINF:0,Arena Sport 1 HD
+http://tvdasogra.com:8880/live/greg/greg/486.ts
+#EXTINF:0,A Bola TV
+http://tvdasogra.com:8880/live/greg/greg/253.ts
 
-#EXTINF:-1,rtp 1 test
-http://tvdasogra.com:8880/live/trial/trial_211/511.ts
-#EXTINF:-1,rtp2
-http://tvdasogra.com:8880/live/trial/trial_211/734.ts
-#EXTINF:-1,sic test
-http://tvdasogra.com:8880/live/trial/trial_211/508.ts
-#EXTINF:-1,tvi test
-http://tvdasogra.com:8880/live/trial/trial_211/522.ts
+#EXTINF:-1,RTP 1
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/68.m3u8
+#EXTINF:-1,RTP 2
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/69.m3u8
+#EXTINF:-1,SIC
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/80.m3u8
 #EXTINF:-1,TVI
-http://tvdasogra.com:8880/live/trial/trial_211/213.ts
-#EXTINF:-1,tvi reality test
-http://tvdasogra.com:8880/live/trial/trial_211/504.ts
-#EXTINF:-1,tvi ficção
-http://tvdasogra.com:8880/live/trial/trial_211/456.ts
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/109.m3u8
+#EXTINF:-1,RTP 3
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/74.m3u8
+#EXTINF:-1,SIC NOTICIAS
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/78.m3u8
 #EXTINF:-1,TVI 24
-http://tvdasogra.com:8880/live/trial/trial_211/214.ts
-#EXTINF:-1,sic radical
-http://tvdasogra.com:8880/live/trial/trial_211/527.ts
-#EXTINF:-1,Sic K
-http://tvdasogra.com:8880/live/trial/trial_211/452.ts
-#EXTINF:-1,rtp 3
-http://tvdasogra.com:8880/live/trial/trial_211/483.ts
-#EXTINF:-1,sic noticias test
-http://tvdasogra.com:8880/live/trial/trial_211/510.ts
-#EXTINF:-1,cmtv test
-http://tvdasogra.com:8880/live/trial/trial_211/514.ts
-#EXTINF:-1,euronews
-http://tvdasogra.com:8880/live/trial/trial_211/460.ts
-#EXTINF:-1,a bola test
-http://tvdasogra.com:8880/live/trial/trial_211/515.ts
-#EXTINF:-1,Porto canal
-http://tvdasogra.com:8880/live/trial/trial_211/267.ts
-#EXTINF:-1,rtp memoria
-http://tvdasogra.com:8880/live/trial/trial_211/742.ts
-#EXTINF:-1,dysney channel
-http://tvdasogra.com:8880/live/trial/trial_211/282.ts
-#EXTINF:-1,Panda
-http://tvdasogra.com:8880/live/trial/trial_211/225.ts
-#EXTINF:-1,Panda biggs
-http://tvdasogra.com:8880/live/trial/trial_211/743.ts
-#EXTINF:-1,Niclelodeon
-http://tvdasogra.com:8880/live/trial/trial_211/528.ts
-#EXTINF:-1,dysney junior
-http://tvdasogra.com:8880/live/trial/trial_211/218.ts
-#EXTINF:-1,globo
-http://tvdasogra.com:8880/live/trial/trial_211/268.ts
-#EXTINF:-1,globotv
-http://tvdasogra.com:8880/live/trial/trial_211/560.ts
-#EXTINF:-1,tv record
-http://tvdasogra.com:8880/live/trial/trial_211/535.ts
-#EXTINF:-1,24 Kitchen
-http://tvdasogra.com:8880/live/trial/trial_211/534.ts
-#EXTINF:-1,E Entertainment
-http://tvdasogra.com:8880/live/trial/trial_211/576.ts
-#EXTINF:-1,CBS Reality
-http://tvdasogra.com:8880/live/trial/trial_211/637.ts
-#EXTINF:-1,Nat Geographic
-http://tvdasogra.com:8880/live/trial/trial_211/281.ts
-#EXTINF:-1,Nat Geo Wild
-http://tvdasogra.com:8880/live/trial/trial_211/564.ts
-#EXTINF:-1,canal Historia
-http://tvdasogra.com:8880/live/trial/trial_211/526.ts
-#EXTINF:-1,Odisseia
-http://tvdasogra.com:8880/live/trial/trial_211/666.ts
-#EXTINF:-1,discovery PT
-http://tvdasogra.com:8880/live/trial/trial_211/277.ts
-#EXTINF:-1,Canal Toros TV
-http://tvdasogra.com:8880/live/trial/trial_211/525.ts
-#EXTINF:-1,caça e pesca
-http://tvdasogra.com:8880/live/trial/trial_211/254.ts
-#EXTINF:-1,vevo 3
-http://tvdasogra.com:8880/live/trial/trial_211/468.ts
-#EXTINF:-1,vevo 2
-http://tvdasogra.com:8880/live/trial/trial_211/467.ts
-#EXTINF:-1,vevo 1
-http://tvdasogra.com:8880/live/trial/trial_211/466.ts
-#EXTINF:-1,SPORT TV HD 1080P *2 opção*
-http://tvdasogra.com:8880/live/trial/trial_211/1.ts
-#EXTINF:-1,Sportv HD 1 test
-http://tvdasogra.com:8880/live/trial/trial_211/517.ts
-#EXTINF:-1,Sportv 2 HD test
-http://tvdasogra.com:8880/live/trial/trial_211/503.ts
-#EXTINF:-1,Sportv 3 HD test
-http://tvdasogra.com:8880/live/trial/trial_211/563.ts
-#EXTINF:-1,Sportv 5 HD test
-http://tvdasogra.com:8880/live/trial/trial_211/577.ts
-#EXTINF:-1,Sportv 1 SD teste
-http://tvdasogra.com:8880/live/trial/trial_211/523.ts
-#EXTINF:-1,Sportv 2 SD teste
-http://tvdasogra.com:8880/live/trial/trial_211/524.ts
-#EXTINF:-1,Sportv 3 test
-http://tvdasogra.com:8880/live/trial/trial_211/506.ts
-#EXTINF:-1,Sportv 4 test
-http://tvdasogra.com:8880/live/trial/trial_211/519.ts
-#EXTINF:-1,Sportv 5 test
-http://tvdasogra.com:8880/live/trial/trial_211/505.ts
-#EXTINF:-1,sportv 4
-http://tvdasogra.com:8880/live/trial/trial_211/257.ts
-#EXTINF:-1,BenficaTV 1 SD teste
-http://tvdasogra.com:8880/live/trial/trial_211/502.ts
-#EXTINF:-1,BenficaTV 1 HD teste
-http://tvdasogra.com:8880/live/trial/trial_211/558.ts
-#EXTINF:-1,BenficaTV HD 2 test
-http://tvdasogra.com:8880/live/trial/trial_211/557.ts
-#EXTINF:-1,BenficaTV SD 2 test
-http://tvdasogra.com:8880/live/trial/trial_211/501.ts
-#EXTINF:-1,sporting test
-http://tvdasogra.com:8880/live/trial/trial_211/513.ts
-#EXTINF:-1,sportv americas
-http://tvdasogra.com:8880/live/trial/trial_211/458.ts
-#EXTINF:-1,eurosport 1 test
-http://tvdasogra.com:8880/live/trial/trial_211/516.ts
-#EXTINF:-1,eurosport 2 test
-http://tvdasogra.com:8880/live/trial/trial_211/561.ts
-#EXTINF:-1,Arena Sport 1 HD
-http://tvdasogra.com:8880/live/trial/trial_211/486.ts
-#EXTINF:-1,Arena Sport 2
-http://tvdasogra.com:8880/live/trial/trial_211/221.ts
-#EXTINF:-1,Arena Sport 3
-http://tvdasogra.com:8880/live/trial/trial_211/224.ts
-#EXTINF:-1,Sport Klub HD 1
-http://tvdasogra.com:8880/live/trial/trial_211/477.ts
-#EXTINF:-1,Sport Klub HD 2
-http://tvdasogra.com:8880/live/trial/trial_211/478.ts
-#EXTINF:-1,Sport Klub HD 3
-http://tvdasogra.com:8880/live/trial/trial_211/479.ts
-#EXTINF:-1,ES: CANAL+ LIGA
-http://tvdasogra.com:8880/live/trial/trial_211/498.ts
-#EXTINF:-1,Bein Sport 1 HD
-http://tvdasogra.com:8880/live/trial/trial_211/474.ts
-#EXTINF:-1,AR: BeIN HD 2
-http://tvdasogra.com:8880/live/trial/trial_211/491.ts
-#EXTINF:-1,Bein Sport 3
-http://tvdasogra.com:8880/live/trial/trial_211/484.ts
-#EXTINF:-1,USA: beIN USA
-http://tvdasogra.com:8880/live/trial/trial_211/490.ts
-#EXTINF:-1,US NBA
-http://tvdasogra.com:8880/live/trial/trial_211/540.ts
-#EXTINF:-1,DE: Sky BundesLiga HD
-http://tvdasogra.com:8880/live/trial/trial_211/497.ts
-#EXTINF:-1,DE: Sky Sports 1 HD
-http://tvdasogra.com:8880/live/trial/trial_211/480.ts
-#EXTINF:-1,DE: Sky Sports 2 HD
-http://tvdasogra.com:8880/live/trial/trial_211/481.ts
-#EXTINF:-1,Italian: Moto Gp
-http://tvdasogra.com:8880/live/trial/trial_211/476.ts
-#EXTINF:-1,uk: Sky Sports F1 HD
-http://tvdasogra.com:8880/live/trial/trial_211/475.ts
-#EXTINF:-1,UK: Sky Sport 1 HD
-http://tvdasogra.com:8880/live/trial/trial_211/472.ts
-#EXTINF:-1,UK: Sky Sport 2 HD
-http://tvdasogra.com:8880/live/trial/trial_211/473.ts
-#EXTINF:-1,BT SPORTS 1
-http://tvdasogra.com:8880/live/trial/trial_211/487.ts
-#EXTINF:-1,BT SPORTS 2
-http://tvdasogra.com:8880/live/trial/trial_211/488.ts
-#EXTINF:-1,USA: Fox Sports 1 HD testes
-http://tvdasogra.com:8880/live/trial/trial_211/471.ts
-#EXTINF:-1,USA: Fox Sports 2 HD - UFC
-http://tvdasogra.com:8880/live/trial/trial_211/470.ts
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/104.m3u8
+#EXTINF:-1,CORREIO DA MANHA TV
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/27.m3u8
+#EXTINF:-1,SIC CARAS
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/75.m3u8
+#EXTINF:-1,CANAL Q
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/22.m3u8
+#EXTINF:-1,+ TVI
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/1.m3u8
+#EXTINF:-1,TVI FICÇAO
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/105.m3u8
+#EXTINF:-1,RTP AFRICA
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/71.m3u8
+#EXTINF:-1,RTP MEMORIA
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/73.m3u8
+#EXTINF:-1,RTP MADEIRA
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/72.m3u8
+#EXTINF:-1,RTP ACORES
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/70.m3u8
+#EXTINF:-1,SIC MULHER
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/77.m3u8
+#EXTINF:-1,SIC RADICAL
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/79.m3u8
+#EXTINF:-1,TVI REALITY
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/107.m3u8
+#EXTINF:-1,TVI MOSAICO REALITY
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/106.m3u8
+#EXTINF:-1,TVI CAMARA REALITY
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/108.m3u8
+#EXTINF:-1,TV RECORD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/97.m3u8
+#EXTINF:-1,RECORD NEWS
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/67.m3u8
+#EXTINF:-1,GLOBO PORTUGAL
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/46.m3u8
+#EXTINF:-1,GLOBO PREMIUM
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/45.m3u8
+#EXTINF:-1,A BOLA TV
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/3.m3u8
+#EXTINF:-1,PORTO CANAL
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/65.m3u8
+#EXTINF:-1,SPORT TV 1
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/84.m3u8
+#EXTINF:-1,SPORTV 1 HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/103.m3u8
+#EXTINF:-1,SPORTV 1 HD.
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/83.m3u8
+#EXTINF:-1,SPORT TV 2
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/86.m3u8
+#EXTINF:-1,SPORTV 2 HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/85.m3u8
+#EXTINF:-1,SPORT TV 3
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/88.m3u8
+#EXTINF:-1,SPORTV 3 HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/87.m3u8
+#EXTINF:-1,SPORT TV 4
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/90.m3u8
+#EXTINF:-1,SPORTV 4 HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/89.m3u8
+#EXTINF:-1,SPORT TV 5
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/92.m3u8
+#EXTINF:-1,SPORTV 5 HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/91.m3u8
+#EXTINF:-1,BENFICA TV 1
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/12.m3u8
+#EXTINF:-1,BENFICA TV 1 HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/14.m3u8
+#EXTINF:-1,BENFICA TV 1 HD.
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/16.m3u8
+#EXTINF:-1,BENFICA TV 2
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/13.m3u8
+#EXTINF:-1,BENFICA TV 2 HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/15.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/66.m3u8
+#EXTINF:-1,CHELSEA TV
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/25.m3u8
+#EXTINF:-1,SPORTING TV
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/82.m3u8
+#EXTINF:-1,SPORTING TV HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/81.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/36.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/37.m3u8
+#EXTINF:-1,EUROSPORT NEWS
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/38.m3u8
 #EXTINF:-1,PFC
-http://tvdasogra.com:8880/live/trial/trial_211/455.ts
-#EXTINF:-1,TV Cine 1 test
-http://tvdasogra.com:8880/live/trial/trial_211/518.ts
-#EXTINF:-1,TVcine 2 test
-http://tvdasogra.com:8880/live/trial/trial_211/520.ts
-#EXTINF:-1,TVCINE 1
-http://tvdasogra.com:8880/live/trial/trial_211/262.ts
-#EXTINF:-1,TVCINE 2
-http://tvdasogra.com:8880/live/trial/trial_211/263.ts
-#EXTINF:-1,TVCINE 3
-http://tvdasogra.com:8880/live/trial/trial_211/264.ts
-#EXTINF:-1,TVCINE 4
-http://tvdasogra.com:8880/live/trial/trial_211/265.ts
-#EXTINF:-1,TVseries
-http://tvdasogra.com:8880/live/trial/trial_211/469.ts
-#EXTINF:-1,holliwood
-http://tvdasogra.com:8880/live/trial/trial_211/454.ts
-#EXTINF:-1,holliwod test
-http://tvdasogra.com:8880/live/trial/trial_211/566.ts
-#EXTINF:-1,Mov HD
-http://tvdasogra.com:8880/live/trial/trial_211/482.ts
-#EXTINF:-1,mov test
-http://tvdasogra.com:8880/live/trial/trial_211/616.ts
-#EXTINF:-1,syfy test
-http://tvdasogra.com:8880/live/trial/trial_211/509.ts
-#EXTINF:-1,axn white
-http://tvdasogra.com:8880/live/trial/trial_211/538.ts
-#EXTINF:-1,axn black
-http://tvdasogra.com:8880/live/trial/trial_211/465.ts
-#EXTINF:-1,axn SD test
-http://tvdasogra.com:8880/live/trial/trial_211/667.ts
-#EXTINF:-1,axn
-http://tvdasogra.com:8880/live/trial/trial_211/276.ts
-#EXTINF:-1,fox crime
-http://tvdasogra.com:8880/live/trial/trial_211/461.ts
-#EXTINF:-1,fox SD test
-http://tvdasogra.com:8880/live/trial/trial_211/592.ts
-#EXTINF:-1,fox hd
-http://tvdasogra.com:8880/live/trial/trial_211/278.ts
-#EXTINF:-1,fox life HD
-http://tvdasogra.com:8880/live/trial/trial_211/229.ts
-#EXTINF:-1,fox comedy
-http://tvdasogra.com:8880/live/trial/trial_211/536.ts
-#EXTINF:-1,fox movies
-http://tvdasogra.com:8880/live/trial/trial_211/565.ts
-#EXTINF:-1,cinemundo
-http://tvdasogra.com:8880/live/trial/trial_211/244.ts
-#EXTINF:-1,PlayBoy
-http://tvdasogra.com:8880/live/trial/trial_211/500.ts
-#EXTINF:-1,venus test
-http://tvdasogra.com:8880/live/trial/trial_211/512.ts
-#EXTINF:-1,Hot test
-http://tvdasogra.com:8880/live/trial/trial_211/507.ts
-#EXTINF:-1,radio comercial
-http://tvdasogra.com:8880/live/trial/trial_211/638.ts
-#EXTINF:-1,RFM
-http://tvdasogra.com:8880/live/trial/trial_211/640.ts
-#EXTINF:-1,Mega Hits
-http://tvdasogra.com:8880/live/trial/trial_211/639.ts
-#EXTINF:-1,Cidade FM
-http://tvdasogra.com:8880/live/trial/trial_211/641.ts 
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/63.m3u8
+#EXTINF:-1,TVC1 HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/99.m3u8
+#EXTINF:-1,TVC2 HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/101.m3u8
+#EXTINF:-1,TVC3 HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/100.m3u8
+#EXTINF:-1,TVC4 HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/102.m3u8
+#EXTINF:-1,TVC SERIES HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/98.m3u8
+#EXTINF:-1,MOV HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/55.m3u8
+#EXTINF:-1,CINEMUNDO
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/26.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/48.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/47.m3u8
+#EXTINF:-1,AXN HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/8.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/9.m3u8
+#EXTINF:-1,AXN BLACK HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/7.m3u8
+#EXTINF:-1,FOX HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/40.m3u8
+#EXTINF:-1,FOX CRIME HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/39.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/41.m3u8
+#EXTINF:-1,FOX MOVIES
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/42.m3u8
+#EXTINF:-1,FX
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/44.m3u8
+#EXTINF:-1,SYFY
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/93.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/58.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/52.m3u8
+#EXTINF:-1,DISCOVERY HD SHOWCASE
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/29.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/57.m3u8
+#EXTINF:-1,DISCOVERY
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/30.m3u8
+#EXTINF:-1,ODISSEIA
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/60.m3u8
+#EXTINF:-1,CBS REALITY
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/24.m3u8
+#EXTINF:-1,CANAL HISTORIA
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/20.m3u8
+#EXTINF:-1,TLC
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/94.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/21.m3u8
+#EXTINF:-1,24 KITCHEN HD
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/2.m3u8
+#EXTINF:-1,AMC
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/6.m3u8
+#EXTINF:-1,A&E
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/4.m3u8
+#EXTINF:-1,WOOHOO
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/112.m3u8
+#EXTINF:-1,E!ENTERTAINMENT
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/33.m3u8
+#EXTINF:-1,FUEL TV
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/43.m3u8
+#EXTINF:-1,MOTORS TV
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/53.m3u8
+#EXTINF:-1,MOTORVISION
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/54.m3u8
+#EXTINF:-1,CAÇA E PESCA
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/18.m3u8
+#EXTINF:-1,CACAVISION
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/19.m3u8
+#EXTINF:-1,SIC K
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/76.m3u8
+#EXTINF:-1,PANDA
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/62.m3u8
+#EXTINF:-1,PANDA BIGGS
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/61.m3u8
+#EXTINF:-1,NICKELODEON
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/59.m3u8
+#EXTINF:-1,JIM JAM
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/50.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/31.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/32.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/23.m3u8
+#EXTINF:-1,BABY TV
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/10.m3u8
+#EXTINF:-1,MTV PORTUGAL
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/56.m3u8
+#EXTINF:-1,TRACE URBAN
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/96.m3u8
+#EXTINF:-1,MCM POP
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/51.m3u8
+#EXTINF:-1,VH1
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/111.m3u8
+#EXTINF:-1,AFRO MUSIC
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/5.m3u8
+#EXTINF:-1,TOROS TV
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/95.m3u8
+#EXTINF:-1,ECONOMICO TV
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/34.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/11.m3u8
+#EXTINF:-1,EURONEWS
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/35.m3u8
+#EXTINF:-1,PLAYBOY
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/64.m3u8
+#EXTINF:-1,HOT
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/49.m3u8
+#EXTINF:-1,VENUS
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/110.m3u8
+#EXTINF:-1,---★ VOD ★--- VIDEO-ON-DEMAND DISPONíVEL
+http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/124.m3u8
+
+
+
+
+TSN
+http://fms.shared.streamshow.it:1935/tsn/tsn/live.m3u8
+TSN
+http://wms.shared.streamshow.it:1935/tsn/tsn/live.m3u8
+TSN 2
+http://fms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+TSN 2
+http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+TSN 2
+http://fms.shared.streamshow.it:1935/tsn2/tsn2_mobile/live.m3u8
+TSN 2
+http://wms.shared.streamshow.it:1935/tsn2/tsn2_mobile/live.m3u8
+RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8
+RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1.smil/chunklist_b600000_slpt.m3u8
+RTP 2
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/livestream.m3u8
+RTP 2
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2.smil/chunklist_b600000_slpt.m3u8
+RTP AÇORES
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpacores_5rtpacores.stream/livestream.m3u8
+RTP AÇORES
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpacores.smil/chunklist_b600000_slpt.m3u8
+RTP ÁFRICA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpafrica_5ch27h264.stream/livestream.m3u8
+RTP ÁFRICA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpafrica.smil/chunklist_b600000_slpt.m3u8
+RTP INFORMAÇÃO
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
+RTP INFORMAÇÃO
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn.smil/chunklist_b600000_slpt.m3u8
+RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
+RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi.smil/chunklist_b600000_slpt.m3u8
+RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmadeira_5ch1016h264H14.stream/livestream.m3u8
+RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmadeira.smil/chunklist_b600000_slpt.m3u8
+RTP MEMÓRIA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
+RTP MEMÓRIA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem.smil/chunklist_b600000_slpt.m3u8
